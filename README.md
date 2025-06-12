@@ -36,8 +36,5 @@ This repository will include:
 
 ---
 
-## Contact
-For any queries, feel free to connect:
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](#)
+
 
