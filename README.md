@@ -22,9 +22,7 @@ During this program, I gained practical knowledge in:
 ## Certification Details
 - **Certificate Issuer**: Deloitte via Forage
 - **Completion Date**: June 12, 2025
-- **Verification**:
-  - [Enrolment Verification Code](http://theforage.com/): `WyPY6cE9yk5GrPH9h`
-  - User Code: `uYGo8a34g3oiDCJd5`
+
 
 ---
 
